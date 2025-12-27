@@ -20,4 +20,4 @@ To write a Python program that filters out and returns all elements from a list 
 <img width="402" height="155" alt="image" src="https://github.com/user-attachments/assets/02caf11a-bd7d-44c1-a77b-ca899ef6e21f" />
 
 ## Result
-Thus the python program that filters out and returns all elements from a list "that do not contain the letter `'e'`", using "regular expressions (regex)".
+Thus the python program that filters out and returns all elements from a list "that do not contain the letter `'e'`", using "regular expressions (regex)" is created.
